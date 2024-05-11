@@ -1,5 +1,5 @@
 function pruebaFunction(){
-    /* soy ignacio */
+    /* soy ignacio desde feature2*/
     return true;
 }
 
