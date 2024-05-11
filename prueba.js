@@ -3,5 +3,5 @@ function pruebaFunction(){
 }
 
 function newFuction2(){
-    
+    return true;
 }
