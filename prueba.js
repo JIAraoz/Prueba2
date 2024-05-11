@@ -1,8 +1,10 @@
 function pruebaFunction(){
     /* soy ignacio */
-    return true;
+    const a=1;
+    const b=2;
+    return newFuction2(a,b);
 }
 
-function newFuction2(){
-    return true;
+function newFuction2(a, b){
+    return a + b;
 }
