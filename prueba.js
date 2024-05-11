@@ -1,0 +1,3 @@
+function pruebaFunction(){
+    return true;
+}
