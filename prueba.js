@@ -3,6 +3,12 @@ function pruebaFunction(){
     return true;
 }
 
-function newFuction2(a, b){
-    return a + b;
+
+function newFuction2(){
+    return true;
+}
+
+function newFuction3(){
+    // mateo
+    return true;
 }
